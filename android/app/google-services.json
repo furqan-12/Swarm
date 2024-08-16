@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "838042105547",
+    "project_id": "swarm-app-392018",
+    "storage_bucket": "swarm-app-392018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838042105547:android:fa6ab8e4fc82cc0f4a0d4e",
+        "android_client_info": {
+          "package_name": "com.getswarm.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838042105547-oonm4e7o968ojp3u56m5afisgp304ibs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAACXJM53UOcu1dNvX5eyQjyC20dK4puLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838042105547-oonm4e7o968ojp3u56m5afisgp304ibs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

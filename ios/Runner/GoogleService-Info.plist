@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBztiLprz6rQdxOuk6UFsaMoQ6IyhUuW5E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>838042105547</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.getswarm.app</string>
+	<key>PROJECT_ID</key>
+	<string>swarm-app-392018</string>
+	<key>STORAGE_BUCKET</key>
+	<string>swarm-app-392018.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:838042105547:ios:22f235dc0fda8b9f4a0d4e</string>
+</dict>
+</plist>
